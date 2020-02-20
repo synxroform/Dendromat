@@ -1,0 +1,9 @@
+﻿<Application x:Class="DendromatTest.App"
+			 xmlns:dendro="clr-namespace:Dendromat;assembly=Dendromat"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="/Dendromat;component/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
